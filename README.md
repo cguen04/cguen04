@@ -7,5 +7,6 @@
 - 🌱 I’m currently learning Python, Java, how Git works, and anything else I find interesting.
 - 👯 I’m looking to collaborate on making a video game!
 - 📫 How to reach me: gmoneycollin@gmail.com or cguen@unc.edu
+- 🔗 LinkedIn: https://www.linkedin.com/in/collin-guenther-05622b322/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I work at the NC Botanical Garden. I am also into photography!
